@@ -12,6 +12,6 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: linaro-jekyll-theme
 layout: post
 title: Blogging Like a Hacker
